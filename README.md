@@ -18,8 +18,15 @@ div {
   font-size:20px;
 }
 </style>
+
+<style>
+.p2 {
+  font-family: "Georgia";
+  font-size:40px;
+}
+</style>
 <div style="background-color:lightyellow;">
-  <center><h2><p style="font-size:40px;">Banana Bread
+  <center><h2><p style="font-size:40px;"> <p class="p2"><Banana Bread
   <p class="p1"><b>Ingredients for one loaf:</b></p>
   <p class="p1">2 cups all-purpose flour </p>
   <p class="p1">1 teaspoon baking soda</p>
@@ -45,7 +52,7 @@ div {
 <div>
 
 <div style="background-color:lightpink;">
- <center><h2><p style="font-size:40px;">Chocolate Chip Cookies
+ <center><h2><p style="font-size:40px;"> <p class="p2">Chocolate Chip Cookies
   <p class="p1"><b>Ingredients (for 20 cookies):</b></p> 
   <p class="p1">2 and 1/4 cups all-purpose flour </p>
   <p class="p1">1 teaspoon baking soda</p>
@@ -69,7 +76,7 @@ div {
 <div>
 
 <div style="background-color:lightblue;">
-  <center><h2><p style="font-size:40px;">Blueberry Scones
+  <center><h2><p style="font-size:40px;"> <p class="p2">Blueberry Scones
   <p class="p1"><b>Ingredients (for 8 scones):</b></p> 
   <p class="p1">2 cups all-purpose flour </p>
   <p class="p1">1/2 cup granulated sugar</p>

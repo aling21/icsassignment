@@ -90,5 +90,3 @@ div {
  <p class="p1"> Step 4. Line a baking tray with parchment paper and place the scones onto the tray. Refrigerate for at least 15 minutes.</p>
   <p class="p1"> Step 5. Preheat the oven to 400 degrees Farenheit </p>
   <p class="p1"> Step 6. Bake the scones for about 20 minutes or until golden brown on the outside. Take the scones out and allow to cool for a few minutes before serving. </p>
-  </body>
-  </html>

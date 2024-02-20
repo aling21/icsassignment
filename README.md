@@ -1,14 +1,13 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<center><h1><p style="font-size:50px;">Recipe Blog</h1></center>
+<center><h1><p style="font-size:50px;">Recipe Blog
 
 <center><p>For Assignment 4, I designed the front-end of a recipe blog. I bake a lot, so these are recipes that I actually use.</p></center>
 
 <style>
 div {
-  width:600px;
+  width:6000px;
   margin:auto;
 }
 </div>
@@ -16,10 +15,11 @@ div {
 <style>
 .p1 {
   font-family: "Georgia";
+  font-size:20px
 }
 </style>
 <div style="background-color:lightyellow;">
-  <center><h2><p style="font-size:40px;">Banana Bread</h2></center>
+  <center><h2><p style="font-size:40px;">Banana Bread
   <p class="p1"><b>Ingredients for one loaf:</b></p>
   <p class="p1">2 cups all-purpose flour </p>
   <p class="p1">1 teaspoon baking soda</p>

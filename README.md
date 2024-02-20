@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<center><h1><p style="font-size:50px;">Recipe Blog</h1></center>
+<center><h1><p style="font-size:50px;">Recipe Blog
 
 <center><p>For Assignment 4, I designed the front-end of a recipe blog. I bake a lot, so these are recipes that I actually use.</p></center>
 
@@ -19,7 +19,7 @@ div {
 }
 </style>
 <div style="background-color:lightyellow;">
-  <center><h2><p style="font-size:40px;">Banana Bread</h2></center>
+  <center><h2><p style="font-size:40px;">Banana Bread
   <p class="p1"><b>Ingredients for one loaf:</b></p>
   <p class="p1">2 cups all-purpose flour </p>
   <p class="p1">1 teaspoon baking soda</p>
@@ -42,10 +42,10 @@ div {
   <p class="p1"> Step 5. Pour the batter into the prepared loaf pan and spread until evenly distributed. Bake for about an hour. Take the loaf out and check to see if the bread is done by inserting a toothpick into the center of the loaf. If it comes out clean with a few crumbs sticking to it, the bread is done. If the mixture is wet, the bread is not done baking yet. </p>
   <p class="p1"> Step 6. Allow the bread to cool in the pan before slicing and serving for at least 1 hour. </p>
 
-</div>
+
 
 <div style="background-color:lightpink;">
- <center><h2><p style="font-size:40px;">Chocolate Chip Cookies</h2></center>
+ <center><h2><p style="font-size:40px;">Chocolate Chip Cookies
   <p class="p1"><b>Ingredients (for 20 cookies):</b></p> 
   <p class="p1">2 and 1/4 cups all-purpose flour </p>
   <p class="p1">1 teaspoon baking soda</p>
@@ -66,10 +66,10 @@ div {
  <p class="p1"> Step 4. When ready to bake, take the dough out of the fridge and allow it to soften at room temperature. Preheat the oven to 325 degrees Farenheit and line a baking sheet with parchment paper.</p>
   <p class="p1"> Step 5. Each cookie should be roughly 2 tablespoons of dough. Roll into circles and slightly flatten out on the baking sheet.  </p>
   <p class="p1"> Step 6. Bake the cookies for about 12 minutes or until the edges are golden brown. Take the cookies out and allow to cool for at least 10 minutes. </p>
-</div>
+
 
 <div style="background-color:lightblue;">
-  <center><h2><p style="font-size:40px;">Blueberry Scones</h2></center>
+  <center><h2><p style="font-size:40px;">Blueberry Scones
   <p class="p1"><b>Ingredients (for 8 scones):</b></p> 
   <p class="p1">2 cups all-purpose flour </p>
   <p class="p1">1/2 cup granulated sugar</p>
@@ -90,7 +90,4 @@ div {
  <p class="p1"> Step 4. Line a baking tray with parchment paper and place the scones onto the tray. Refrigerate for at least 15 minutes.</p>
   <p class="p1"> Step 5. Preheat the oven to 400 degrees Farenheit </p>
   <p class="p1"> Step 6. Bake the scones for about 20 minutes or until golden brown on the outside. Take the scones out and allow to cool for a few minutes before serving. </p>
-</div>
 
-</body>
-</html>

@@ -26,7 +26,7 @@ div {
 }
 </style>
 <div style="background-color:lightyellow;">
-  <center><h2><p style="font-size:40px;"> <p class="p2"><Banana Bread
+  <center><h2><p style="font-size:40px;"><p class="p2">Banana Bread
   <p class="p1"><b>Ingredients for one loaf:</b></p>
   <p class="p1">2 cups all-purpose flour </p>
   <p class="p1">1 teaspoon baking soda</p>

@@ -1,13 +1,13 @@
 <html>
 <body>
 
-<center><h1><p style="font-size:50px;">Recipe Blog
+<center><h1><p style="font-size:50px;">Recipe Blog</h1></center>
 
 <center><p>For Assignment 4, I designed the front-end of a recipe blog. I bake a lot, so these are recipes that I actually use.</p></center>
 
 <style>
 div {
-  width:6000px;
+  width:1000px;
   margin:auto;
 }
 </div>
@@ -15,11 +15,11 @@ div {
 <style>
 .p1 {
   font-family: "Georgia";
-  font-size:20px
+  font-size:20px;
 }
 </style>
 <div style="background-color:lightyellow;">
-  <center><h2><p style="font-size:40px;">Banana Bread
+  <center><h2><p style="font-size:40px;">Banana Bread</h2></center>
   <p class="p1"><b>Ingredients for one loaf:</b></p>
   <p class="p1">2 cups all-purpose flour </p>
   <p class="p1">1 teaspoon baking soda</p>
@@ -31,7 +31,7 @@ div {
   <p class="p1">2 cups mashed bananas </p>
   <p class="p1">1 teaspoon  vanilla extract </p>
 
- <center><img src="https://sallysbakingaddiction.com/wp-content/uploads/2018/10/homemade-banana-bread.jpg" alt="Banana bread" width="400" height="500"/> <p>Image source: Sally's Baking Recipes</p></center>
+ <center><img src="https://sallysbakingaddiction.com/wp-content/uploads/2018/10/homemade-banana-bread.jpg" alt="Banana bread" width="400" height="500"/> <p class ="p1">Image source: Sally's Baking Recipes</p></center>
 
 
   <p class="p1"><b>Instructions:</b></p> 
@@ -57,7 +57,7 @@ div {
   <p class="p1">2 teaspoons vanilla extract</p>
   <p class="p1">1 cup (or more!) chocolate chips or chocolate chunks</p>
  
- <center><img src="https://www.modernhoney.com/wp-content/uploads/2023/08/Nestle-Toll-House-Chocolate-Chip-Cookies-Recipe-crop.jpg" alt="Chocolate chip cookies" width="400" height="400"/> <p>Image source: Modern Honey</p></center>
+ <center><img src="https://www.modernhoney.com/wp-content/uploads/2023/08/Nestle-Toll-House-Chocolate-Chip-Cookies-Recipe-crop.jpg" alt="Chocolate chip cookies" width="400" height="400"/> <p class ="p1">Image source: Modern Honey</p></center>
 
  <p class="p1"><b>Instructions:</b></p> 
   <p class="p1">Step 1. Mix the flour, baking soda, and salt in a bowl. Set aside.</p>
@@ -81,7 +81,7 @@ div {
   <p class="p1">1 and 1/2 teaspoons vanilla extract</p>
   <p class="p1">1 cup blueberries</p>
   
-  <center><img src="https://www.foodnetwork.com/content/dam/images/food/fullset/2011/8/4/0/FO1D54_blueberry-scones-with-lemon-glaze_s4x3.jpg" alt="Blueberry scones" width="500" height="400"/> <p>Image source: Food Network</p></center>
+  <center><img src="https://www.foodnetwork.com/content/dam/images/food/fullset/2011/8/4/0/FO1D54_blueberry-scones-with-lemon-glaze_s4x3.jpg" alt="Blueberry scones" width="500" height="400"/> <p class ="p1">Image source: Food Network</p></center>
 
   <p class="p1"><b>Instructions:</b></p> 
   <p class="p1">Step 1. Mix the flour, baking powder, sugar, and salt in a bowl. Grate the frozen butter into the mixture of dry ingredients and coat all the chunks of butter.</p>

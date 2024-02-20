@@ -3,7 +3,7 @@
 
 <center><h1><p style="font-size:50px;">Recipe Blog
 
-<center><p>For Assignment 4, I designed the front-end of a recipe blog. I bake a lot, so these are recipes that I actually use.</p></center>
+<center><p><p style ="font-size:20px;">For Assignment 4, I designed the front-end of a recipe blog. I bake a lot, so these are recipes that I actually use.</p></center>
 
 <style>
 div {

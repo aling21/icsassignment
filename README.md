@@ -66,8 +66,8 @@ div {
  <p class="p1"> Step 4. When ready to bake, take the dough out of the fridge and allow it to soften at room temperature. Preheat the oven to 325 degrees Farenheit and line a baking sheet with parchment paper.</p>
   <p class="p1"> Step 5. Each cookie should be roughly 2 tablespoons of dough. Roll into circles and slightly flatten out on the baking sheet.  </p>
   <p class="p1"> Step 6. Bake the cookies for about 12 minutes or until the edges are golden brown. Take the cookies out and allow to cool for at least 10 minutes. </p>
-
 <div></div>
+
 <div style="background-color:lightblue;">
   <center><h2><p style="font-size:40px;">Blueberry Scones
   <p class="p1"><b>Ingredients (for 8 scones):</b></p> 
